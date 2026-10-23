@@ -1,0 +1,6 @@
+emotion,false_negatives,false_positives,support
+anger,58,98,186
+fear,44,100,192
+joy,80,46,164
+sadness,70,128,198
+surprise,30,84,110

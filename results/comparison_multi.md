@@ -1,0 +1,4 @@
+| model | micro_f1 | macro_f1 | macro_precision | macro_recall | subset_accuracy | hamming_loss |
+|---|---|---|---|---|---|---|
+| tfidf_word | 0.569 | 0.5612 | 0.5158 | 0.6346 | 0.3928 | 0.1957 |
+| tfidf_word_char | 0.6062 | 0.6027 | 0.5594 | 0.669 | 0.4337 | 0.1778 |
